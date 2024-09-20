@@ -40,7 +40,7 @@ fun main(args: Array<String>) {
     println("****** Fin del Ejemplo 2 ******")
 
     println("\n****** Ejemplo 3 ******")
-    println("La suma es: $(suma)")
+    println("La suma es: ${suma}")
     println("****** Fin del Ejemplo 3 ******")   
     
     println("\n****** Ejemplo 4 ******")
